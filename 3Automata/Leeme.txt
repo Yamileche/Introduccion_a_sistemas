@@ -1,0 +1,3 @@
+Este programa determina si una cadena de carácteres es posible asignarlo como un nombre de variable. 
+
+Para poder ejecutarlo basta con abrir una terminal e ingresar 'make' y luego escribir el nombre a evaluar. 
